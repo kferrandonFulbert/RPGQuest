@@ -103,10 +103,11 @@ namespace RPGQuest
 
         private void btnPlusForce_Click(object sender, EventArgs e)
         {
-            if (pgbForce.Value > 0)
+            if (nbPointsRepartitions > 0)
             {
                 pgbForce.Value = pgbForce.Value + 1;
-
+                nbPointsRepartitions--;
+                lblPoints.Text = nbPointsRepartitions.ToString();
             }
         }
     }
