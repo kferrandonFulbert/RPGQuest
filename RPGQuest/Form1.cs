@@ -46,7 +46,7 @@ namespace RPGQuest
            // connection = new MySqlConnection(connectionString);
             var builder = new MySqlConnectionStringBuilder
             {
-                Server = "172.16.10.40.",
+                Server = "172.16.10.40",
                 UserID = "sio1-tp4",
                 Password = "Sio1TP4.31",
                 Database = "rpgquest",
