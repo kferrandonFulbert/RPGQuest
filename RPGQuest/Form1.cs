@@ -1,4 +1,5 @@
-﻿using MySql.Data.MySqlClient;
+﻿//using MySql.Data.MySqlClient;
+using MySqlConnector;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -41,9 +42,16 @@ namespace RPGQuest
 
         private void InitializeDatabaseConnection()
         {
-            string connectionString = "Server=localhost;Database=RPGQuest;User ID=root;Password=;";
-            connection = new MySqlConnection(connectionString);
-
+           // string connectionString = "Server=localhost;Database=RPGQuest;User ID=root;Password=;";
+           // connection = new MySqlConnection(connectionString);
+            var builder = new MySqlConnectionStringBuilder
+            {
+                Server = "172.16.10.40.",
+                UserID = "sio1-tp4",
+                Password = "Sio1TP4.31",
+                Database = "rpgquest",
+            };
+            connection = new MySqlConnection(builder.ConnectionString);
             try
             {
                 connection.Open();

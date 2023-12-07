@@ -12,7 +12,6 @@ D:\Csharp\RPGQuest\RPGQuest\bin\Debug\K4os.Compression.LZ4.dll
 D:\Csharp\RPGQuest\RPGQuest\bin\Debug\K4os.Compression.LZ4.Streams.dll
 D:\Csharp\RPGQuest\RPGQuest\bin\Debug\K4os.Hash.xxHash.dll
 D:\Csharp\RPGQuest\RPGQuest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
-D:\Csharp\RPGQuest\RPGQuest\bin\Debug\MySql.Data.dll
 D:\Csharp\RPGQuest\RPGQuest\bin\Debug\System.Buffers.dll
 D:\Csharp\RPGQuest\RPGQuest\bin\Debug\System.Configuration.ConfigurationManager.dll
 D:\Csharp\RPGQuest\RPGQuest\bin\Debug\System.Diagnostics.DiagnosticSource.dll
@@ -29,7 +28,6 @@ D:\Csharp\RPGQuest\RPGQuest\bin\Debug\K4os.Compression.LZ4.xml
 D:\Csharp\RPGQuest\RPGQuest\bin\Debug\K4os.Compression.LZ4.Streams.xml
 D:\Csharp\RPGQuest\RPGQuest\bin\Debug\K4os.Hash.xxHash.xml
 D:\Csharp\RPGQuest\RPGQuest\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
-D:\Csharp\RPGQuest\RPGQuest\bin\Debug\MySql.Data.xml
 D:\Csharp\RPGQuest\RPGQuest\bin\Debug\System.Buffers.xml
 D:\Csharp\RPGQuest\RPGQuest\bin\Debug\System.Diagnostics.DiagnosticSource.xml
 D:\Csharp\RPGQuest\RPGQuest\bin\Debug\System.IO.Pipelines.xml
@@ -40,3 +38,7 @@ D:\Csharp\RPGQuest\RPGQuest\bin\Debug\System.Threading.Tasks.Extensions.xml
 D:\Csharp\RPGQuest\RPGQuest\obj\Debug\RPGQuest.csproj.CopyComplete
 D:\Csharp\RPGQuest\RPGQuest\obj\Debug\RPGQuest.exe
 D:\Csharp\RPGQuest\RPGQuest\obj\Debug\RPGQuest.pdb
+D:\Csharp\RPGQuest\RPGQuest\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Csharp\RPGQuest\RPGQuest\bin\Debug\MySqlConnector.dll
+D:\Csharp\RPGQuest\RPGQuest\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Csharp\RPGQuest\RPGQuest\bin\Debug\MySqlConnector.xml
